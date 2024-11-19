@@ -1,1 +1,21 @@
-/* You can add global styles to this file, and also import other style files */
+#perro {
+    width: 100%;
+    border: 4px solid black;    
+}
+
+#tittle{
+    font-size: 60px;
+    text-align: center;
+    align-items: center;
+}
+
+#cambiarImagen{
+   display: block;
+   margin: 0 auto;
+   background-color: black;
+   color: aliceblue;
+}
+
+body{
+    background-color: #8ad44e;
+}
